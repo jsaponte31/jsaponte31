@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jsaponte31/jsaponte31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'am Jhojan Aponte
+
+### Stack:
+[![My Skills](https://skillicons.dev/icons?i=perl,angular,dotnet,docker,mysql,git)](https://skillicons.dev)
