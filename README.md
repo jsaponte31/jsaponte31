@@ -20,4 +20,6 @@ Hi, I'am Jhojan Aponte
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="angular" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt="dotnet" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=git" title="GIT" alt="git" />
 </p>
