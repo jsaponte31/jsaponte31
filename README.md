@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 Hi, I'am Jhojan Aponte
 
 ### Stack:
-[![My Skills](https://skillicons.dev/icons?i=perl,angular,dotnet,docker,mysql,git)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=perl" title="Perl" alt="perl" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="angular" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt="dotnet" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" />
+</p>
